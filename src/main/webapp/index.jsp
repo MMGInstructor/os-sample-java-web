@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello from OpenShifft</h2>
+<h2>Hola, prueba de webhook</h2>
 </body>
 </html>
